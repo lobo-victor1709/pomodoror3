@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "pomodoror3",
+    "slug": "pomodoror3",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/png-transparent-pomodoro-technique-timer-android-android-food-tomato-fruit-thumbnail.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "9dd524b9-7627-41b5-bad5-3740524b44b8"
+      }
+    }
+  }
+}
